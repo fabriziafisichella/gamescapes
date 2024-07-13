@@ -15,7 +15,7 @@ import TagBox from "./components/TagBox.js";
 // funzioni aggiuntive
 
 // costanti / variabili
-const API_URL = "http://api.unsplash.com";
+const API_URL = "https://api.unsplash.com";
 const API_TOKEN = "RWQVy3hR3SDBmiEagO06q--9hknYBWhjbWWyR7oRTd0";
 const PAGE_RESULT = "10";
 const PAGE_RESULT_2 = "30";
