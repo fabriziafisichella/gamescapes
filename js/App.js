@@ -11,12 +11,12 @@ import InputEl from "./components/Input.js";
 import MainBox from "./components/MainBox.js";
 import SearchBox from "./components/SearchBox.js";
 import TagBox from "./components/TagBox.js";
-import { API_TOKEN } from "./apitoken.js";
 
 // funzioni aggiuntive
 
 // costanti / variabili
 const API_URL = "http://api.unsplash.com";
+const API_TOKEN = "RWQVy3hR3SDBmiEagO06q--9hknYBWhjbWWyR7oRTd0";
 const PAGE_RESULT = "10";
 const PAGE_RESULT_2 = "30";
 const ROOT_EL = find('#root');
